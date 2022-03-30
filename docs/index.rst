@@ -78,5 +78,5 @@ Link Wewnętrzny
 
 .. toctree::
     
-    about.rst
-    author.rst
+    about
+    author
